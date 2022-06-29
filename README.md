@@ -20,7 +20,7 @@ This documentation includes all public deliverables of the Nuoret Opintopolulle 
 This documentation is unfortunately only available in Finnish, for the purposes of the Nuoret Opintopolulle -project.
 
 The documentation consist of the following parts:
-- The architecture and the piloting documentation
+- The architecture and the solution documentation
 - Press releases and publications
 - Steering group memorandums
 - The source code (see section below)
