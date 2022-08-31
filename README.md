@@ -29,7 +29,7 @@ The documentation consist of the following parts:
 
 The Annie source code consists of two repositories:
 
-[Annie UI](https://github.com/Annie-Advisor/Annie-API-CE) consists of two React web applications, one for managing the system (Annie Admin) and one for support professionals to receive students' support requests (Annie App).
+[Annie UI](https://github.com/Annie-Advisor/Annie-UI-CE) consists of two React web applications, one for managing the system (Annie Admin) and one for support professionals to receive students' support requests (Annie App).
 
 [Annie API](https://github.com/Annie-Advisor/Annie-API-CE) is the backend of Annie, consisting of database (Annie DB) and an application programming interface (Annie API).
 
